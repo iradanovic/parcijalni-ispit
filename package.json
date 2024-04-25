@@ -7,9 +7,6 @@
     "express": "^4.17.1",
     "random": "^4.1.0"
   },
-  "scripts": {
-    
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/algebra-training/parcijalni-ispit.git"
